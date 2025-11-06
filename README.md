@@ -18,6 +18,8 @@ Built with **Node.js**, **Express**, **MongoDB**, and **EJS**.
 ##Launch Demo
 [Link](https://savage-demo-dd4y.onrender.com)
 
+---
+
 ## 🧠 Tech Stack
 
 | Layer | Technology |

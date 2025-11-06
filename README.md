@@ -15,7 +15,7 @@ Built with **Node.js**, **Express**, **MongoDB**, and **EJS**.
 
 ---
 
-##Launch Demo
+## Launch Demo
 
 - [Link](https://savage-demo-dd4y.onrender.com)
 

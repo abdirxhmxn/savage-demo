@@ -1,5 +1,3 @@
-![21 Savage](public/21savage.jpg)
-
 # 21 Savage Fan Message Board
 
 A simple full-stack **fan message board** for 21 Savage fans. Users can post messages, like or dislike them, and delete posts.  
@@ -16,6 +14,9 @@ Built with **Node.js**, **Express**, **MongoDB**, and **EJS**.
 - Persistent storage with MongoDB Atlas  
 
 ---
+
+##Launch Demo
+[Link](https://savage-demo-dd4y.onrender.com)
 
 ## 🧠 Tech Stack
 

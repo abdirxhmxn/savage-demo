@@ -1,4 +1,3 @@
-````markdown
 ![21 Savage](public/21savage.jpg)
 
 # 21 Savage Fan Message Board

@@ -85,6 +85,7 @@ all while *trapping hard and keeping it savage.*
 │   ├── main.js       # Client-side logic (like/dislike/delete)
 │   └── styles.css    # Custom styling
 ├── views/            # EJS templates
+|   └── index.ejs     # main page
 ├── server.js         # Express server + MongoDB logic
 ├── package.json
 └── README.md
